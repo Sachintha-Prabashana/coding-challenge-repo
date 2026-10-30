@@ -1,3 +1,5 @@
 public class Problem3 {
-    public sta
+    public static void main(String[] args) {
+    }
+
 }
